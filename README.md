@@ -1,7 +1,5 @@
 # Sample ASP.NET Core application for Azure Pipelines docs
 
-[![Build Status](https://dev.azure.com/grahamsmith0720/Test/_apis/build/status/GrahamDSmith.dotnet-core-sample)](https://dev.azure.com/grahamsmith0720/Test/_build/latest?definitionId=1)
-
 For information on how to use this repository, see [.NET Core](https://docs.microsoft.com/azure/devops/pipelines/languages/dotnet-core).
 
 | Example | Build status |
